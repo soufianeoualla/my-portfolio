@@ -1,5 +1,5 @@
 import { MobileNavBar } from "./MobileNavBar"
-import DesktopNavbar from "./desktopNavbar"
+import DesktopNavbar from "./DesktopNavbar"
 
 const Header = ({contact,setContact,isClicked,setIsClicked,isNight,setisNight}) => {
 
